@@ -15,7 +15,7 @@ public class FilippovaEjemploGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Gina");
+        System.out.println("Gina y Pedro");
         System.out.println("Versión 2");
     }
     
